@@ -1,0 +1,16 @@
+{
+"companyName": "kulaspiro",
+"productName": "anatomy",
+"productVersion": "0.2",
+"dataUrl": "02 - prototype.data.unityweb",
+"wasmCodeUrl": "02 - prototype.wasm.code.unityweb",
+"wasmFrameworkUrl": "02 - prototype.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#000000",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.1f1"
+}
